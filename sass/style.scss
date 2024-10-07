@@ -7,7 +7,7 @@
     object-fit: cover;
   }
   .carousel-caption{
-      top:50%
+      top: 50%;
   }
   
   .card-image img{
@@ -15,12 +15,12 @@
       height: 300px;
       object-fit: cover;
   }
-  .card img src{
-      width: 100%
+  .card img{
+      width: 100%;
       object-fit: cover;
   }
   
-  .container .row .col .card mb-3 d-flex justify-content-center align-items-center img src{
+  .container .row .col .card .mb-3 .d-flex .justify-content-center .align-items-center img{
     object-fit: cover;
   }
   form{
@@ -33,7 +33,7 @@
         font-size: 16px;   
     }
     .container p a{
-        font-size:0;
+        font-size: 0;
     }
   footer{
       background-color: lightblue;
